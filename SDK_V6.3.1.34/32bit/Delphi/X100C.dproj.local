@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/12/01 10:58:45.000.697,=rtl.dcp</Transaction>
+    <Transaction>2018/12/01 10:58:47.000.228,=C:\Users\Bery Indo\Documents\Embarcadero\Studio\16.0\Imports\zkemkeeper_TLB.pas</Transaction>
+    <Transaction>2018/12/01 10:58:47.000.240,=C:\Users\Bery Indo\Documents\Embarcadero\Studio\16.0\Imports\zkemkeeper_TLB.pas</Transaction>
+    <Transaction>2018/12/01 10:58:47.000.242,=vcl.dcp</Transaction>
+  </Transactions>
+</BorlandProject>
