@@ -1,6 +1,7 @@
 Dicoba dengan Fingerprint merk Solution Tipe :
 - X100-C<br>
-- X1500<br>
+- X1500 <br>
+
 tidak menutup kemungkinan bisa digunakan ditipe yang berbeda <br>
 Untuk tipe fingerprint LCD hitam putih masih bisa menggunakan fungsi `GetAllUserInfo` <br>
 Untuk tipe fingerprint TFT LCD ditambah `SSR_` di depan fungsi, jadi `SSR_GetAllUserInfo` <br><br>
