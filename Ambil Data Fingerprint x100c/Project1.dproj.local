@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/12/01 05:39:10.000.220,=C:\Users\Bery Indo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/12/01 05:40:15.000.311,=C:\Users\Bery Indo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/12/01 07:32:40.000.444,C:\Users\Bery Indo\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\Source Code Delphi\XE8\Ambil Data Fingerprint x100c\Unit1.pas</Transaction>
+    <Transaction>2018/12/01 07:32:40.000.444,C:\Users\Bery Indo\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\Source Code Delphi\XE8\Ambil Data Fingerprint x100c\Unit1.dfm</Transaction>
+    <Transaction>2018/12/01 07:32:41.000.840,C:\Users\Bery Indo\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\Source Code Delphi\XE8\Ambil Data Fingerprint x100c\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
